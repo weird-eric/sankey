@@ -1,0 +1,27 @@
+Detection ID,Detections,Top Security Goals,Current Sources Location,Current Sources,Current Sources Color,Current Sources with S1 Location,Current Sources with S1,Current Sources with S1 Color,Alternate Color 1,Alternate Color 2
+T1566.002,Phishing: Spearphishing Link,Ransomware,On Premise,pfsense,"rgb(80, 80, 70)",On Premise,pfsense,"rgb(80, 80, 70)",,
+T1204.001,User Execution: Malicious Link,Ransomware,On Premise,pfsense,"rgb(80, 80, 70)",On Premise,pfsense,"rgb(80, 80, 70)",,
+T1566.002,Phishing: Spearphishing Link,Phishing,API,AWS,"rgb(68, 193, 172)",Company API,AWS,"rgb(68, 193, 172)","rgb(68, 193, 172)","rgb(54, 83, 106)"
+T1566.001,Phishing: Spearphishing Attachment,Phishing,API,AWS,"rgb(68, 193, 172)",Company API,AWS,"rgb(68, 193, 172)","rgb(68, 193, 172)","rgb(54, 83, 106)"
+T1078,Valid Accounts,Phishing,API,AWS,"rgb(68, 193, 172)",Company API,AWS,"rgb(68, 193, 172)","rgb(68, 193, 172)","rgb(54, 83, 106)"
+T1078,Valid Accounts,Phishing,API,AWS,"rgb(68, 193, 172)",Company API,AWS,"rgb(68, 193, 172)","rgb(68, 193, 172)","rgb(54, 83, 106)"
+T1078,Valid Accounts,Phishing,API,AWS,"rgb(68, 193, 172)",Company API,AWS,"rgb(68, 193, 172)",,
+T1078,Valid Accounts,Phishing,API,AWS,"rgb(68, 193, 172)",Company API,AWS,"rgb(68, 193, 172)",,
+T1078,Valid Accounts,DLP,API,AWS,"rgb(68, 193, 172)",Company API,AWS,"rgb(68, 193, 172)",,
+T1566.002,Phishing: Spearphishing Link,DLP,API,AWS,"rgb(68, 193, 172)",On Premise,IBM,"rgb(54, 83, 106)",,
+T1566.001,Phishing: Spearphishing Attachment,DLP,API,AWS,"rgb(68, 193, 172)",On Premise,IBM,"rgb(54, 83, 106)",,
+T1078,Valid Accounts,DLP,API,AWS,"rgb(68, 193, 172)",On Premise,IBM,"rgb(54, 83, 106)",,
+T1078,Valid Accounts,DLP,API,AWS,"rgb(68, 193, 172)",On Premise,IBM,"rgb(54, 83, 106)",,
+T1078,Valid Accounts,DLP,API,AWS,"rgb(68, 193, 172)",On Premise,IBM,"rgb(54, 83, 106)",,
+T1078,Valid Accounts,Ransomware,API,AWS,"rgb(68, 193, 172)",On Premise,IBM,"rgb(54, 83, 106)",,
+T1078,Valid Accounts,Ransomware,API,AWS,"rgb(68, 193, 172)",On Premise,IBM,"rgb(54, 83, 106)",,
+T1078,Valid Accounts,Ransomware,API,AWS,"rgb(68, 193, 172)",On Premise,IBM,"rgb(54, 83, 106)",,
+T1566.001,Phishing: Spearphishing Attachment,Ransomware,On Premise,No Anti-virus,"rgb(54, 83, 106)",Customer API,Crowdstrike,"rgb(68, 193, 172)",,
+T1204.001,User Execution: Malicious Link,Ransomware,On Premise,No Anti-virus,"rgb(54, 83, 106)",Customer API,Crowdstrike,"rgb(68, 193, 172)",,
+T1222,File and Directory Permissions Modification,Ransomware,On Premise,No Anti-virus,"rgb(54, 83, 106)",Customer API,Crowdstrike,"rgb(68, 193, 172)",,
+T1059.001,Command and Scripting Interpreter: PowerShell,Ransomware,On Premise,No Anti-virus,"rgb(54, 83, 106)",Customer API,Crowdstrike,"rgb(68, 193, 172)",,
+T1036.005,Masquerading: Match Legitimate Name or Location,Ransomware,On Premise,No Anti-virus,"rgb(54, 83, 106)",Customer API,Crowdstrike,"rgb(68, 193, 172)",,
+T1005,Data from Local System,Ransomware,On Premise,No Anti-virus,"rgb(54, 83, 106)",Customer API,Crowdstrike,"rgb(68, 193, 172)",,
+T1003.001,OS Credential Dumping:: LSASS Memory,Ransomware,On Premise,No Anti-virus,"rgb(54, 83, 106)",Customer API,Crowdstrike,"rgb(68, 193, 172)",,
+T1021.002,Remote Services: SMB/Windows Admin Shares,Ransomware,On Premise,No Anti-virus,"rgb(54, 83, 106)",Customer API,Crowdstrike,"rgb(68, 193, 172)",,
+T1052.001,Exfiltration over USB,Ransomware,On Premise,No Anti-virus,"rgb(54, 83, 106)",Customer API,Crowdstrike,"rgb(68, 193, 172)",,
